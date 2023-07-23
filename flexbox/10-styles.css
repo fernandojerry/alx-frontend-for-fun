@@ -348,7 +348,8 @@
       ============================= */
   
   .section-hero {
-    
+    position: relative;
+    margin-top: -8.5rem;
   }
 
   .section-hero .hero-homepage {
@@ -356,8 +357,6 @@
     background-repeat: no-repeat;
     background-size: 90rem auto;
     background-color: #010101;
-    position: relative;
-    margin-top: -8.5rem;
   }
 
   .section-hero .section-body {
